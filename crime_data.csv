@@ -1,0 +1,16 @@
+Date,Time,Area,Crime_Type,Latitude,Longitude,Crime_Count,Night_Crime,Violent_Crime,Crime_Level
+2025-01-10,23:00,Mansarovar,Robbery,26.8467,75.7667,15,1,1,High
+2025-01-11,14:00,Vaishali Nagar,Theft,26.9115,75.7375,8,0,0,Medium
+2025-01-12,01:00,Malviya Nagar,Assault,26.8543,75.8243,18,1,1,High
+2025-01-13,11:00,Raja Park,Fraud,26.8985,75.8267,4,0,0,Low
+2025-01-14,22:00,Jagatpura,Snatching,26.8222,75.8635,13,1,1,High
+2025-01-15,21:00,Tonk Road,Robbery,26.8470,75.8131,10,1,1,Medium
+2025-01-16,02:00,Sindhi Camp,Assault,26.9239,75.7999,20,1,1,High
+2025-01-17,15:00,Bani Park,Theft,26.9255,75.7903,5,0,0,Low
+2025-01-18,20:00,MI Road,Assault,26.9164,75.8180,16,1,1,High
+2025-01-19,19:00,Adarsh Nagar,Robbery,26.8976,75.8355,14,1,1,High
+2025-01-20,23:30,Shyam Nagar,Snatching,26.8898,75.7610,17,1,1,High
+2025-01-21,12:00,Vidyadhar Nagar,Fraud,26.9550,75.7789,6,0,0,Low
+2025-01-22,21:45,C-Scheme,Robbery,26.9124,75.7873,19,1,1,High
+2025-01-23,16:00,Sanganer,Theft,26.8190,75.7870,7,0,0,Medium
+2025-01-24,00:30,Amer Road,Assault,26.9855,75.8513,22,1,1,High
